@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\84e8652e259f3acc6b034e539c8ab7dd\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\beead538e3e93cce8f8b4cd4c40999c8\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\429937b5736dcd9a3e2fb8912cd4aba0\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{515B1AA6-0DBD-35C5-BB4F-23B48D40492C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

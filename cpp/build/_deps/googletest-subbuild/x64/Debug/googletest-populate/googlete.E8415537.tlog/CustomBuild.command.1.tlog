@@ -1,0 +1,152 @@
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-MKDIR.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-DOWNLOAD.RULE
+setlocal
+cd E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -P E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/download-googletest-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -P E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/verify-googletest-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -P E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/extract-googletest-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-UPDATE.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-update
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-PATCH.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-CONFIGURE.RULE
+setlocal
+cd E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-BUILD.RULE
+setlocal
+cd E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-INSTALL.RULE
+setlocal
+cd E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\84E8652E259F3ACC6B034E539C8AB7DD\GOOGLETEST-POPULATE-TEST.RULE
+setlocal
+cd E:\Users\komputerek\Desktop\Git_Repo\gildedrose-refactoring-kata\cpp\build\_deps\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\BEEAD538E3E93CCE8F8B4CD4C40999C8\GOOGLETEST-POPULATE-COMPLETE.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -E make_directory E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/CMakeFiles/Debug/googletest-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"E:\Program Files\CMake\bin\cmake.exe" -E touch E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/Debug/googletest-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\429937B5736DCD9A3E2FB8912CD4ABA0\GOOGLETEST-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild -BE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild --check-stamp-file E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

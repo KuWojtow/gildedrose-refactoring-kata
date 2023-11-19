@@ -1,0 +1,10 @@
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\429937B5736DCD9A3E2FB8912CD4ABA0\GENERATE.STAMP.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild -BE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

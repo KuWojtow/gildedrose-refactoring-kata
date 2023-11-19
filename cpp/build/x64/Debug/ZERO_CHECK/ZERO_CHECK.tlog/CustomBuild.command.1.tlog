@@ -1,0 +1,10 @@
+^E:\USERS\KOMPUTEREK\DESKTOP\GIT_REPO\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\CMAKEFILES\375A64027E5D3816B829A1539E42C702\GENERATE.STAMP.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp -BE:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

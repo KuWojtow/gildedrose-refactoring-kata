@@ -1,0 +1,15 @@
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRose.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRoseTextTests.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/CMakeFiles/INSTALL.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/CMakeFiles/ALL_BUILD.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/CMakeFiles/ZERO_CHECK.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/CMakeFiles/INSTALL.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/CMakeFiles/ALL_BUILD.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googlemock/CMakeFiles/INSTALL.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googlemock/CMakeFiles/ALL_BUILD.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googletest/CMakeFiles/INSTALL.dir
+E:/Users/komputerek/Desktop/Git_Repo/gildedrose-refactoring-kata/cpp/build/_deps/googletest-build/googletest/CMakeFiles/ALL_BUILD.dir
